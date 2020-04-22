@@ -1,2 +1,0 @@
-# final
-mindX Final Project
